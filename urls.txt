@@ -1,0 +1,4 @@
+http://ec2-54-236-60-48.compute-1.amazonaws.com/
+http://ec2-54-236-60-48.compute-1.amazonaws.com/predict
+http://ec2-54-236-60-48.compute-1.amazonaws.com/predict?feature_1=0&feature_2=0&feature_3=0
+
